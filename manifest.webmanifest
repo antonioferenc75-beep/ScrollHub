@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "ScrollHub",
+  "short_name": "ScrollHub",
+  "description": "Krátká videa ve vertikálním feedu.",
+  "lang": "cs-CZ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08090d",
+  "theme_color": "#08090d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
